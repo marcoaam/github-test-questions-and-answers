@@ -1,1 +1,1 @@
-What upstream remote is used for?
+Upstream remote is used to fetch and push files from other account than your owown forked files in your github account.
