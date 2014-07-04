@@ -1,1 +1,1 @@
-What a branch is?
+A branch is a paralel version of the files that you are working with. the files can be merged between branches later on. each branch has differents changes.
