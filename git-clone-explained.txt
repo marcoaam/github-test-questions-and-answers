@@ -1,1 +1,1 @@
-What git clone does?
+Git clone is a command that lets you completely copy a github repository in your local machine providing the https address or the ssh address.
